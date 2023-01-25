@@ -39,6 +39,9 @@
 #         self.mileage = mileage
 #
 #     def info(self):
+
+
+print("Hello")
 #         print(f"The vehicle2 max_speed is: {self.max_speed}\nThe vehicle2 mileage is : {self.mileage}")
 #
 # # if __name__ == "__main__"
